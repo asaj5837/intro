@@ -4,7 +4,7 @@ Steve Kraynov, 2020 XD
 
 Maximus Kypriotis, 2020
 
-Steve Kraynov, 2020 XD 
+Steve Kraynov, 2020 XD
 
 Marco Tupaz, 2020 XD
 
@@ -80,8 +80,10 @@ Nick Freeborn 2021 (¬‿¬)
 
 Kousha Aslani 2021
 
-Jordan Guyot 2021 
+Jordan Guyot 2021
 
 Leon Ortega 2021
 
 Will Thorp 2021
+
+Aaron Sajan 2021
